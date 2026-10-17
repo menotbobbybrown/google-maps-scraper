@@ -44,7 +44,7 @@ That's wrong 😠.
 
 <!-- SB7: GUIDE → PLAN → SUCCESS → CTA -->
 
-Use our Google Maps Extractor Desktop App to get more Google Maps leads and 🤝 reach your customers .
+Use our Google Maps Extractor Desktop App to get hundreds of thousands of Google Maps leads for free and 🤝 reach your customers.
 
 Without having to empty your pockets 😎.
 
@@ -76,7 +76,7 @@ Sure, we aren't as big as Apify or Outscraper, but our product can get you the a
 - **Enrichment included** — Get emails, social profiles, and decision-maker contacts for max conversion.
 - **Reviews Extraction that actually works!** 
 - **Built-in API** for easy Python/Node.js integration. Easy docs for developers.
-- **Rated Excellent — 4.7 based on 31 reviews** on [Trustpilot](https://www.trustpilot.com/review/omkar.cloud). Our open source work is sponsored by [1000+ devs on GitHub](https://github.com/sponsors/omkarcloud).
+- **Rated Excellent — 4.7 based on 36 reviews** on [Trustpilot](https://www.trustpilot.com/review/omkar.cloud). Our open source work is sponsored by [1000+ devs on GitHub](https://github.com/sponsors/omkarcloud).
 
 
 ## Results
@@ -121,11 +121,11 @@ For every business, you get the major data points you need to sell:
 
 That's just the start — the tool extracts **50+ data points** in total. See the full list in [advanced.md (Are there any usage limits?)](https://github.com/omkarcloud/google-maps-scraper/blob/master/advanced.md#are-there-any-usage-limits).
 
-On top of the raw data, **business enrichment** gets you sales-ready contacts: verified emails, decision-makers (CEO, Founder, etc.), and phone carrier info so you don't waste time on landlines.
+On top of the raw data, **business enrichment** gives you sales-ready contacts: verified emails and social profiles.
 
 ### How to use it?
 
-To use this tool, ensure you have **Google Chrome** installed. Then download the app:
+To start getting Google Maps leads, download the app:
 
 👉 **[Download Google Maps Extractor](https://www.omkar.cloud/google-maps-extractor/download)**.
 
@@ -139,53 +139,22 @@ Watch the full walkthrough below — choosing the right search strategy, applyin
 
 ## 🔍 What are the various search strategies, and which one should I use?
 
-This is slightly complex stuff, but if you want 10,000+ leads in a city, you must understand this.
+Stick with the default **Detailed** strategy. It finds the most businesses and is only slightly slower than Fast.
 
-There are 5 kinds of search strategies:
-- Fast (Default)
-- Fastest
-- Detailed
-- By Zoom Level (15, 16, 17, 18)
-- By Geolocation
+| Strategy | Finds | Speed | Best for |
+|---|---|---|---|
+| **Detailed** (default) | The most businesses | Fast | Almost everything |
+| **Fast** | About 4% fewer than Detailed | About 15% faster than Detailed | Very large runs, such as a **whole country** |
+| **Fastest** | About the same as Fast | Slightly faster than Fast | **Whole-country** runs on computers with less than 16 GB RAM |
+| **Zoom 15–18** | Similar to Detailed | Slow (hours for a big city) | Advanced users only |
+| **Geolocation** | Only businesses inside your point or shape | Depends on area size | Searching a custom area instead of a city |
 
-![search-strategies.png](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/search-strategies.png)
+**Pro tip:** Use the **Filters for Faster Runs** section to make searches 3–5x faster. The tool then skips every business that doesn't match, instead of collecting it first. Try:
 
-Let's see when to use which strategy:
+1. **Quick picks** → Operational only, Established (75+ reviews), Good rating (4★+), Has website (tech-savvy), Has phone
+2. **Category In** → the exact category you sell to
 
-**Fast (Default):**
-- Returns 120–1600 results per city.
-- Completes in 1–10 minutes per city.
-- **When to use:**
-  - Best for country-level extraction (completes in 1–2 days).
-
-**Fastest:**
-- Slightly faster than Fast mode (~30 seconds per city), but returns ~30–40 fewer results.
-- **When to use:**
-  - When speed is the top priority and a small reduction in results is acceptable.
-
-**Detailed:**
-- Returns more results than Fast mode, but takes significantly longer.
-- **When to use:**
-  - Best for single-city or state level extraction where thoroughness matters.
-- **When not to use:**
-  - Not recommended for country-level extraction due to high time requirements.
-  - Tip: Set "Max Results" to 1000 per city, otherwise large cities like New York can take 2+ hours.
-
-**By Zoom Level (15, 16, 17, 18):**
-- Various Zoom Level sizes are given below:
-  - Zoom 15: Neighborhood Level
-  - Zoom 16: Sub-Neighborhood Level
-  - Zoom 17: Block Level (Time consuming)
-  - Zoom 18: Street Level (Very time consuming)
-- **When to use:**
-  - When you want the absolute highest results. Use Zoom 18. It can take 3-4 hours, but you will have thousands of results for big cities like New York City.
-- **When not to use:**
-  - Not recommended for country-level extraction. It can take 3-4 hours for a single city.
-
-**By Geolocation:**
-- Search a specific latitude/longitude or inside a polygon.
-- **When to use:**
-  - Getting results that are only in a specific area, but not outside it.
+![Filters for Faster Runs: quick picks and Category In](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/filters-for-faster-runs.png)
 
 
 ## ✨ Enrichment: Same Leads, Higher Conversion
@@ -204,7 +173,7 @@ The website enrichment part (extracting emails and social profiles from business
 
 <!-- [PLACEHOLDER VIDEO: Enrichment demo — same leads, higher conversion] -->
 
-Follow these steps to start using enrichment:
+Follow these steps to set up enrichment and get 300 free email enrichments every month:
 
 1. Sign up on Omkar Cloud by visiting [this link](https://www.omkar.cloud/auth/sign-up).
 
@@ -217,6 +186,7 @@ Follow these steps to start using enrichment:
 ![enrichment-section.png](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/enrichment-section.png)
 
 5. Go to [verify phone page](https://www.omkar.cloud/account/verify-phone) and verify your phone number. We require phone verification to prevent abuse of our free credits and keep the service available for genuine users.
+<!-- Solve this easy captcha once, it's annoyinh but we have to keep the. bots out-->
 
 6. Run it.
 
@@ -224,6 +194,7 @@ That's it. You can find enrichment results in the "Overview" View.
 
 ![enrichment-results.png](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/enrichment-results.png)
 
+<!-- explain here -->
 To get the most out of enrichment, read the [Enrichment Documentation](https://www.omkar.cloud/tools/business-enrichment/about).
 
 [Start enriching for free](https://www.omkar.cloud/tools/business-enrichment)—100 credits free/month. No credit card needed.
@@ -235,7 +206,7 @@ To get the most out of enrichment, read the [Enrichment Documentation](https://w
 - **Starter — $16/month, 5,000 searches/month.** Getting clients every month, in city after city.
 - **Unlimited — $48/month, Unlimited searches.** Agencies and heavy users extracting country-level data at scale.
 
-Each search yields **100 to 1,000+ results** (10,000+ with the Detailed/Zoom 18 strategy). Apify and Outscraper charge you per result; we charge per search — so 5,000 searches can mean hundreds of thousands of leads. That's the cheapest per-lead cost in the market. 
+Each search yields **100 to 1,000+ results**. Apify and Outscraper charge you per result; we charge per search — so 5,000 searches can mean hundreds of thousands of leads. That's the cheapest per-lead cost in the market. 
 
 Start with **Free** — 200 searches/month is more than enough to test the tool and get up to 20,000+ leads per month. Upgrade to **Starter ($16/month)** when you're doing regular outreach and need more cities every month. Go **Unlimited ($48/month)** if you're extracting country-level data at scale.
 
