@@ -56,86 +56,64 @@ Without having to empty your pockets 😎.
   </a>
 </p>
 
-## ⚡ Benefits
+## ⚡ Why Choose Us Over Apify & Outscraper
 
-<!-- **Find businesses on Google Maps, get their contacts, and turn them into paying customers — all in one tool, end to end.** -->
+Here's why you can trust us:
 
-Sure, we aren't as big as Apify or Outscraper, but our product can get you the absolute **highest** number of results per city, with the most generous free tier in the Google Maps lead generation market.
+- **3.6K+ stars on GitHub** — the most popular Google Maps Scraper App on GitHub.
+- **Rated Excellent — 4.7 based on 36 reviews** on [Trustpilot](https://www.trustpilot.com/review/omkar.cloud).
+- Our open source work is sponsored by **[1100+ developers on GitHub](https://github.com/sponsors/omkarcloud)**.
+
+
+Sure, we're smaller than Apify and Outscraper, but we beat them where it matters:
+
+- **Most leads per city** than Apify and Outscraper.
+<!-- [PLACEHOLDER IMAGE: side-by-side comparison — "restaurants in NYC" result count on Apify vs Omkar] -->
+- **Most generous free tier** in Google Maps lead generation, with 200 Searches for 100K+ Leads. Most users never pay. 
 
 <!-- TODO -->
 <!-- - **Higher results per city.** Same query, more leads. Here's "restaurants in NYC" from Apify vs from Omkar: -->
 <!-- [PLACEHOLDER IMAGE: side-by-side comparison — "restaurants in NYC" result count on Apify vs Omkar] -->
 
+On top of that, here's what you get out of the box:
+
 - **16x more generous free plan than Apify.** Apify's $5 free credit gets you [~1,250 leads](https://apify.com/compass/crawler-google-places). Omkar gives you **200 free searches/month** at 100–1,000+ results each — **20,000+ free leads every month**.
-
-
-<!-- [PLACEHOLDER IMAGE: free plan comparison — Apify $5 credit (~1,250 leads) vs Omkar free tier (20,000+ leads/month)] -->
-
-- **Most Popular** Google Maps Scraper App on GitHub — **3.5K+ stars**.
 - **50+ data points** — Extracted in real-time.
 - **Enrichment included** — Get emails, social profiles, and decision-maker contacts for max conversion.
 - **Reviews Extraction that actually works!** 
-- **Built-in API** for easy Python/Node.js integration. Easy docs for developers.
-- **Rated Excellent — 4.7 based on 36 reviews** on [Trustpilot](https://www.trustpilot.com/review/omkar.cloud). Our open source work is sponsored by [1000+ devs on GitHub](https://github.com/sponsors/omkarcloud).
-
+- **13 Endpoints Built-in API** for easy Python/Node.js integration.
 
 ## Results
 
 Talk is cheap — here are results I extracted using this tool:
 
 - 🍔 **14,979 restaurants in New York City** — [Download csv and see results](https://www.omkar.cloud/l/restaurant-in-new-york-city)
-- 💪 **5,868 gyms in Delhi** — [Download csv and see results](https://www.omkar.cloud/l/gym-in-delhi)
+- 💪 **5,868 gyms in London** — [Download csv and see results](https://www.omkar.cloud/l/gym-in-delhi)
 
 All in just 3 searches, with 197 searches still left in the free plan 😎. 
 
-![Google Maps Data Extractor CSV Result](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/gmap_result.png)
+**Watch it in Action.** You'll see the tool pull 200+ real business leads and quickly decide whether it's worth your time.
 
-## 🎬 Quick Demo (1 min)
+[![Quick Demo — Scrape 20K+ Google Maps Leads for Free](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/video-thumbnails/quick-demo.png)](https://www.youtube.com/watch?v=ZfcGmD-ql4U)
 
-If you only watch one thing, watch this. In under a minute, you'll see the tool pull 200+ real business leads and can decide whether this tool is worth your time or you should look elsewhere.
 
-[![Quick Demo (1 min) — Scrape 10K+ Google Maps Leads for Free](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/video-thumbnails/quick-demo.png)](https://www.youtube.com/watch?v=ZfcGmD-ql4U)
-
-## ❓ FAQs
-
-### What is this Google Maps Scraper App?
-
-It's a desktop app that finds Business Profiles from Google Maps for any category and location you choose — restaurants, dentists, gyms, agencies, and more. In a few clicks you get a clean, exportable list of businesses along with their contact details, so you can reach out and sell to them. 
-
-Founders use it to find their first customers; students use it to gather data for research projects.
-
-If you are a developer, this app has a **built-in API**, an [npm package](https://www.npmjs.com/package/botasaurus-desktop-api), and a 
-[Python library](https://pypi.org/project/botasaurus-api/), so you can integrate it into your Python or Node.js scripts and get results in under 5 minutes. The API can also run on [AWS and GCP VMs](https://github.com/omkarcloud/google-maps-scraper/blob/master/server-deployment.md).
-
-<!-- TODO: ADD VIDEO IN HERE, say doing hard, like running the extractor on multiple servers, you might want to talk to our  -->
-
-### What data can I get from it?
-
-For every business, you get the major data points you need to sell:
-
-- Name, Main Category, and Address
-- Phone number
-- Website
-- Email and social profiles (via enrichment)
-- Rating and number of reviews
-
-That's just the start — the tool extracts **50+ data points** in total. See the full list in [advanced.md (Are there any usage limits?)](https://github.com/omkarcloud/google-maps-scraper/blob/master/advanced.md#are-there-any-usage-limits).
-
-On top of the raw data, **business enrichment** gives you sales-ready contacts: verified emails and social profiles.
-
-### How to use it?
-
-To start getting Google Maps leads, download the app:
-
-👉 **[Download Google Maps Extractor](https://www.omkar.cloud/google-maps-extractor/download)**.
-
-Then enter your search query and **press the Run button** to get 1000+ leads.
+## Get 20,000+ leads in 3 steps
 
 ![GIF of Google Maps Extractor Visit, Highlight Keyword, Run, See Results](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/demo.gif)
 
-Watch the full walkthrough below — choosing the right search strategy, applying filters, and exporting a clean, ready-to-sell lead list. Ten minutes here and you will completely understand how to use the tool to get maximum leads.
-<!-- next version tell retry as well. show failed. say network issue -->
-[![Detailed Demo (5 min) — Google Maps Scraper Full Tutorial](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/video-thumbnails/detailed-demo.png)](https://www.youtube.com/watch?v=1zCenEuKvjc)
+
+1. **Download the app.** 👉 [Download Google Maps Extractor](https://www.omkar.cloud/google-maps-extractor/download)
+
+<p align="center">
+  <a href="https://www.omkar.cloud/google-maps-extractor/download">
+    <img alt="Download Google Maps Extractor — Get 20,000+ Leads Free" src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20the%20App-Get%2020%2C000%2B%20Leads%20Free-2ea44f?style=for-the-badge" />
+  </a>
+</p>
+
+2. **Enter your search and press Run.** For example: "restaurants in New York City".
+3. **Sit back and get your 20K New York City Leads.**
+
+## ❓ FAQs
 
 ## 🔍 What are the various search strategies, and which one should I use?
 
@@ -149,7 +127,7 @@ Stick with the default **Detailed** strategy. It finds the most businesses and i
 | **Zoom 15–18** | Similar to Detailed | Slow (hours for a big city) | Advanced users only |
 | **Geolocation** | Only businesses inside your point or shape | Depends on area size | Searching a custom area instead of a city |
 
-**Pro tip:** Use the **Filters for Faster Runs** section to make searches 3–5x faster. The tool then skips every business that doesn't match, instead of collecting it first. Try:
+**Pro Tip:** Use the **Filters for Faster Runs** section to make searches 3–5x faster. The tool then skips every business that doesn't match, instead of collecting it. Try:
 
 1. **Quick picks** → Operational only, Established (75+ reviews), Good rating (4★+), Has website (tech-savvy), Has phone
 2. **Category In** → the exact category you sell to
@@ -161,13 +139,14 @@ Stick with the default **Detailed** strategy. It finds the most businesses and i
 
 Enrichment turns Google Maps business data into sales-ready contacts—same leads, same effort, but much higher conversion.
 
-**Phone:**
-- Phone Carrier Info — know if it's a landline or mobile. Mobile numbers go to business owners and lead to better sales; landlines go to receptionists.
-- Place Sales Summary — Personalize your pitch, so the customer sees that you have done your research and becomes interested in your product.
 
 **Email:**
 - Find the best email for outreach, with deliverability verification.
 - Get social profiles, like Twitter, LinkedIn, etc., to get more information about the customer.
+
+**Phone:**
+- Phone Carrier Info — know if it's a landline or mobile. Mobile numbers go to business owners and lead to better sales; landlines go to receptionists.
+- Place Sales Summary — Personalize your pitch, so the customer sees that you have done your research and becomes interested in your product.
 
 The website enrichment part (extracting emails and social profiles from business websites) is open source. See [website-email-contact-scraper](https://github.com/omkarcloud/website-email-contact-scraper).
 
@@ -202,27 +181,28 @@ To get the most out of enrichment, read the [Enrichment Documentation](https://w
 
 ## 💰 Pricing
 
-- **Free — Free, 200 searches/month.** Getting your first 20,000+ leads. No credit card needed.
-- **Starter — $16/month, 5,000 searches/month.** Getting clients every month, in city after city.
-- **Unlimited — $48/month, Unlimited searches.** Agencies and heavy users extracting country-level data at scale.
+Apify and Outscraper charge you **per result**. We charge **per search**, and each search yields 100 to 1,000+ results. That's the cheapest per-lead cost in the market.
 
-Each search yields **100 to 1,000+ results**. Apify and Outscraper charge you per result; we charge per search — so 5,000 searches can mean hundreds of thousands of leads. That's the cheapest per-lead cost in the market. 
+| Plan | Price | Searches | Who it's for |
+|---|---|---|---|
+| **Free** | $0 | 200/month | Getting your first 20,000+ leads. No credit card needed. |
+| **Starter** | $16/month | 5,000/month | Getting clients every month, city after city. |
+| **Unlimited** | $48/month | Unlimited | Agencies and heavy users extracting country-level data. |
 
-Start with **Free** — 200 searches/month is more than enough to test the tool and get up to 20,000+ leads per month. Upgrade to **Starter ($16/month)** when you're doing regular outreach and need more cities every month. Go **Unlimited ($48/month)** if you're extracting country-level data at scale.
-
-**Cancel anytime. Refund in 2 clicks, no questions asked:**
+**Money Back Guarantee: cancel anytime, refund in 2 clicks, no questions asked.**
 
 1. Go to the [Transactions Page](https://www.omkar.cloud/billing/transaction-history).
-2. Click **Request Refund**, then confirm by clicking **Request Refund** again.
+2. Click **Request Refund**, then confirm.
 
-That's it. The amount is refunded in 1-2 business days. No emails, no explanations, no questions asked.
-
-Watch the full 2-click refund process:
+The amount is refunded in 1–2 business days. No emails, no explanations.
 
 [![2-Click Refund Process of Omkar Cloud](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/video-thumbnails/refund.png)](https://www.youtube.com/watch?v=d5Xkwomrens)
 
-We have made the refund process easier than cutting a cake 🎂. Why? Because we are confident in the value our product brings 😎.
-
+<p align="center">
+  <a href="https://www.omkar.cloud/google-maps-extractor/download">
+    <img alt="Download Google Maps Extractor — Get 20,000+ Leads Free" src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20the%20App-Get%2020%2C000%2B%20Leads%20Free-2ea44f?style=for-the-badge" />
+  </a>
+</p>
 
 ## 📚 Learn More
 
@@ -270,6 +250,18 @@ It's just 1 click, but it means the world to me.
 
 [![Star us on GitHub](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/star-us.png)](https://github.com/omkarcloud/google-maps-scraper)
 
-### Not in your Budget?
+## Your customers are on Google Maps. Go get them.
 
-If you are a student or a person just starting your business, and a paid plan is not in your budget, you can let us know via [WhatsApp](https://api.whatsapp.com/send?phone=918178804274&text=I%20am%20just%20starting%20out%20and%20a%20paid%20plan%20of%20the%20Google%20Maps%20Extractor%20is%20not%20in%20my%20budget.%20Kindly%20provide%20me%2012%20months%20of%20free%20access.) or [Email](mailto:happy.to.help@omkar.cloud?subject=Request%20for%2012%20Months%20Free%20Access%20to%20Google%20Maps%20Extractor&body=I%20am%20just%20starting%20out%20and%20a%20paid%20plan%20of%20the%20Google%20Maps%20Extractor%20is%20not%20in%20my%20budget.%20Kindly%20provide%20me%2012%20months%20of%20free%20access.) and we will give you **12 months of free access**. Don't hesitate—it will take 5 minutes to WhatsApp/Email, and it will make us happy 😊 to help you.
+You've seen the most leads per search, the price, and money back guarantee. The only thing left is the first search.
+
+<p align="center">
+  <a href="https://www.omkar.cloud/google-maps-extractor/download">
+    <img alt="Download Google Maps Extractor — Get 20,000+ Leads Free" src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20the%20App-Get%2020%2C000%2B%20Leads%20Free-2ea44f?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">Free forever plan. No credit card. Refund in 2 clicks if you change your mind.</p>
+
+<!-- ### Not in your Budget?
+
+If you are a student or a person just starting your business, and a paid plan is not in your budget, you can let us know via [WhatsApp](https://api.whatsapp.com/send?phone=918178804274&text=I%20am%20just%20starting%20out%20and%20a%20paid%20plan%20of%20the%20Google%20Maps%20Extractor%20is%20not%20in%20my%20budget.%20Kindly%20provide%20me%2012%20months%20of%20free%20access.) or [Email](mailto:happy.to.help@omkar.cloud?subject=Request%20for%2012%20Months%20Free%20Access%20to%20Google%20Maps%20Extractor&body=I%20am%20just%20starting%20out%20and%20a%20paid%20plan%20of%20the%20Google%20Maps%20Extractor%20is%20not%20in%20my%20budget.%20Kindly%20provide%20me%2012%20months%20of%20free%20access.) and we will give you **12 months of free access**. Don't hesitate—it will take 5 minutes to WhatsApp/Email, and it will make us happy 😊 to help you. -->
