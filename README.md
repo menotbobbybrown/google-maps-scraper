@@ -87,7 +87,7 @@ Talk is cheap. Here's what I extracted with this tool:
 
 - 🍔 **21,068 restaurants in New York City** — [Download csv and see results](https://www.omkar.cloud/l/restaurant-in-new-york-city)
 - 💪 **14,253 gyms in London** — [Download csv and see results](https://www.omkar.cloud/l/gym-in-london)
-- 🥐 **9,115 bakeries in Paris** — [Download csv and see results](https://www.omkar.cloud/l/bakery-in-paris)
+- 🎂 **9,115 bakeries in Paris** — [Download csv and see results](https://www.omkar.cloud/l/bakery-in-paris)
 
 44,000+ leads from just 3 searches, with 197 still left in the free plan 😎.
 
@@ -130,9 +130,9 @@ Stick with the default **Detailed** strategy. It finds the most businesses and i
 **Pro Tip:** Use **Filters for Faster Runs** to make searches 3–5x faster. The tool skips every business that doesn't match instead of collecting it. Try:
 
 1. **Quick picks** → Operational only, Established (75+ reviews), Good rating (4★+), Has website (tech-savvy), Has phone
-2. **Category In** → the exact category you sell to
+2. **Category In** → click **Suggest with AI** and it picks the right categories
 
-![Filters for Faster Runs: quick picks and Category In](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/filters-for-faster-runs.png)
+![Filters for Faster Runs: quick picks, Category In and Suggest with AI](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/filters-for-faster-runs.png)
 
 
 ## 💰 Pricing
